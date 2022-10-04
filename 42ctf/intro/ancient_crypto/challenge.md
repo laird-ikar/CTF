@@ -16,7 +16,3 @@ Bonne chance !
 [Challenge](https://www.42ctf.org/fr/ctfs/intro/ancient_crypto)
 
 ## Solution
-
-42CTF{EASY_TO_BRUTE_FORCE}
-
-Caesar cipher (rot10)
