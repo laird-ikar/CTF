@@ -1,3 +1,3 @@
 # CTF
 
-Private repository with all my CTFs.
+Repository with all my CTFs.
