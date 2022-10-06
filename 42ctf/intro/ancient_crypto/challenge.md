@@ -14,5 +14,3 @@ Ex: 42CTF{Th1s_1s_a_Fl4g}
 Bonne chance ! 
 
 [Challenge](https://www.42ctf.org/fr/ctfs/intro/ancient_crypto)
-
-## Solution
