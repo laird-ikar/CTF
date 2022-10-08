@@ -2,8 +2,8 @@
 
 ## [dcode](https://www.dcode.fr/)
 
-Référence d'outils (notament cryptographiques) avec notament beaucoup de possibilités de brute-force et un identificateur de chiffrement.
+Great compilation of cryptographic tools, with decryptors, recognision of cryptography method and some brut force options.
 
-* Langue	: FR
-* Prix		: Gratuit
-* Disponibilité	: Online
+* langage:		FR
+* price:		Gratuit
+* disponibility:	Online
